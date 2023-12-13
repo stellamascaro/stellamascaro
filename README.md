@@ -8,7 +8,7 @@
 
 My name is **Stella Mascaro** and welcome to my profile !!
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Stella+Mascaro..&hearts;++;Full+Stack+Developer;Computer+Science+Student;Data+Science+🤩;Love+to+learn+new+content!!"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Stella+Mascaro;++;Full+Stack+Developer+👾;Computer+Science+Student+👩‍💻;Data+Science+🚀;Love+to+learn+new+content!!"></a>
 
 Full Stack enthusiast looking for an opportunity to show my skills, since i recently graduated at Le Wagon's Web Development Bootcamp. My objective is to learn from any situation, grow as an individual and always help others.
 <br>
@@ -23,7 +23,7 @@ Full Stack enthusiast looking for an opportunity to show my skills, since i rece
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-Full Stack Developer graduated at Le Wagon's bootcamp | My portfolio
+    <p>Full Stack Developer graduated at Le Wagon's bootcamp | <a href="https://troopl.com/stellamascaro", style="text-decoration: none;">My portfolio</a></p>
 
 <br><br>
 
@@ -58,9 +58,6 @@ Full Stack Developer graduated at Le Wagon's bootcamp | My portfolio
 	 
   <a href="https://www.linkedin.com/in/stellamascaro">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/stellamascaro/stellamascaro">
-    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   
 </p>
