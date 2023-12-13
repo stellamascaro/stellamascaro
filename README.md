@@ -23,7 +23,10 @@ Full Stack enthusiast looking for an opportunity to show my skills, since i rece
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-    <p>Full Stack Developer graduated at Le Wagon's bootcamp | <a href="https://troopl.com/stellamascaro", style="text-decoration: none;">My portfolio</a></p>
+  Full Stack Developer graduated at Le Wagon's bootcamp
+<br><br>
+
+  <p><a href="https://troopl.com/stellamascaro", style="text-decoration: none;">My portfolio</a></p>
 
 <br><br>
 
