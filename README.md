@@ -10,7 +10,7 @@ My name is **Stella Mascaro** and welcome to my profile !!
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Stella+Mascaro;++;Full+Stack+Developer+👾;Computer+Science+Student+👩‍💻;Data+Science+🚀;Love+to+learn+new+content!!"></a>
 
-I am a Full Stack enthusiast seeking an opportunity to showcase my skills. I graduated from Le Wagon's Web Development Bootcamp. Currently, I am expanding my knowledge by learning Python and Java through bootcamps on the DIO platform and pursuing a course in Computer Science. My objective is to learn from any situation, grow as an individual and always help others.
+I am a Full Stack enthusiast seeking an opportunity to showcase my skills. I graduated from Le Wagon's Web Development Bootcamp, where I gained expertise as a Full Stack Developer. Currently, I am expanding my knowledge by learning Python and Java through bootcamps on the DIO platform and pursuing a course in Computer Science. My objective is to learn from any situation, grow as an individual and always help others. Additionally, I have a keen interest in Data Science!
 <br>
 <br><br>
 <br><br>
