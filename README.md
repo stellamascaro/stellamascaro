@@ -13,9 +13,9 @@ My name is **Stella Mascaro** and welcome to my profile 👋🎉
 
 <br><br>
 
-##  **About me** <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30">
+##  **About me** 
 
-I'm a Full Stack enthusiast seeking an opportunity to showcase my skills. I graduated from Le Wagon's Web Development Bootcamp, where I gained expertise as a Full Stack Developer. Currently, I am expanding my knowledge by learning Python and Java through bootcamps on the DIO platform and pursuing a course in Computer Science. My objective is to learn from any situation, grow as an individual, and always help others. Additionally, I have a keen interest in Data Science!
+I'm a Full Stack enthusiast seeking an opportunity to showcase my skills. I graduated from Le Wagon's Web Development Bootcamp, where I gained expertise as a Full Stack Developer. Currently, I am pursuing a course in Computer Science and started a part-time job at KodeBrew as a Developer. My objective is to learn from any situation, grow as an individual, and always help others. Additionally, i'm doing theater in my free time and i have a keen interest in Data Science!
 
 <br><br>
 
@@ -53,7 +53,7 @@ I'm a Full Stack enthusiast seeking an opportunity to showcase my skills. I grad
   </a>
 </p>
 
- <img src="https://camo.githubusercontent.com/3c69dbe108e25f2e6cabdddf2deb603052cb55be5a09b20e9188f696770a0f23/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="60"> _**I love connecting with different people so if you want to say hi, I'll be happy to meet you more!**_
+**I love connecting with different people so if you want to say hi, I'll be happy to meet you more!**
 
 </div>
 
