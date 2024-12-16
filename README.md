@@ -4,7 +4,7 @@
 
 My name is **Stella Mascaro** and welcome to my profile 👋🎉
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Stella+Mascaro;++;Full+Stack+Developer+👾;Computer+Science+Student+👩‍💻;Data+Science+🚀💭;Love+to+learn+new+content!!;Love+playing+RPG+games+🎮;Love+sports+🚴‍♀️+🤾‍♀️+🏊‍♀️+🏋️‍♀️+🏐+🏀+🥎"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Stella+Mascaro;++;Full+Stack+Developer+👾;Computer+Science+Student+👩‍💻;Data+Science+🚀💭;Theater+Actress+🎭;Love+playing+RPG+games+🎮;Love+sports+🚴‍♀️+🤾‍♀️+🏊‍♀️+🏋️‍♀️+🏐+🏀+🥎"></a>
 
 
 <br><br>
