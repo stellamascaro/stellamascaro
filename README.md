@@ -33,7 +33,6 @@ I'm a Full Stack enthusiast, currently working as Front End developer in the cyb
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats</b>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=StellaMascaro&theme=react&show_icons=true&include_all_commits=true" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StellaMascaro&theme=react&layout=compact" />
 
 <br><br>
