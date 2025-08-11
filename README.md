@@ -15,7 +15,7 @@ My name is **Stella Mascaro** and welcome to my profile 👋🎉
 
 ##  **About me** 
 
-I'm a Full Stack enthusiast seeking an opportunity to showcase my skills. I graduated from Le Wagon's Web Development Bootcamp, where I gained expertise as a Full Stack Developer. Currently, I am pursuing a course in Computer Science and started a part-time job at KodeBrew as a Developer. My objective is to learn from any situation, grow as an individual, and always help others. Additionally, i'm doing theater in my free time and i have a keen interest in Data Science!
+I'm a Full Stack enthusiast, currently working as Front End developer in the cybersecurity field. I graduated from Le Wagon's Web Development Bootcamp, where I gained expertise as a Full Stack Developer. Currently, I am pursuing a course in Computer Science and gained real experience in a part-time job at KodeBrew as a Full Stack Developer. My objective is to learn from any situation, grow as an individual, and always help others. Additionally, i'm doing theater in my free time and i have a keen interest in Data Science!
 
 <br><br>
 
